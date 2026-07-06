@@ -16,3 +16,11 @@ This are the coefficient of probability
 
 - bais
 ==> it is the factor used based as the multipier of the player selection to increaese the selection of the striker more 
+
+### Step to Run
+- git clone
+- cd TsImplementation
+- mkdir dist
+- npm i
+- npx tsc
+- node dist/main.js
