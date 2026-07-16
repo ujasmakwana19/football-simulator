@@ -1,5 +1,12 @@
 ### Football Simulator
 
+### JS Implementation
+### Step to Run
+- git clone
+- cd JsImplementation
+- node main.js
+
+### TS Implementation
 The app config has three parameter 
 - saving_chances
 - goals_chances
